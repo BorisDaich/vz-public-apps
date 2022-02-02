@@ -7,7 +7,7 @@
     </information>
     <resources>
         <j2se version="11+"/>
-        <jar href="uart-recorder.jar" main="true" version="${project.version}"/>
+        <jar href="uart-recorder.jar" main="true" version="1.8.0"/>
         <property name="jnlp.versionEnabled" value="true"/>
     </resources>
     <security>
