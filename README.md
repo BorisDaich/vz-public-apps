@@ -2,7 +2,7 @@
 hosting of the VocalZoom WebStart based apps distribution
 
 
-test JNLP  [test.jnlp](./test.jnlp)
+uart-recorder JNLP  [uart-recorder.jnlp](./uart-recorder.jnlp)
 https://borisdaich.github.io/vz-public-apps/
 
-[jnlp__V2.0-SNAPSHOT.jar](./jnlp__V2.0-SNAPSHOT.jar)
+[uart-recorder__V2.0-SNAPSHOT.jar](./uart-recorder__V2.0-SNAPSHOT.jar)
